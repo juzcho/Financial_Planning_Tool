@@ -48,7 +48,7 @@ If you have Jupyter Lab already installed, to open your Notebook and be able to 
 
 Once you click ENTER, this will open on your default browser.
 
-![Open Jupyter Lab](./images/open_jupyter_lab_with_hidden_files.jpeg)
+![Open Jupyter Lab](./Images/open_jupyter_lab_with_hidden_files.jpeg)
 
 ---
 
@@ -60,7 +60,7 @@ Check if you already have JSON on your conda dev environment, by typing:
 
 - If you have JSON installed you should see the version.
 
-![Check JSON](./images/conda_list_json.jpeg) 
+![Check JSON](./Images/conda_list_json.jpeg) 
 
 - To install the JSON library, check that your development environment is active, and then run the following command:
 
@@ -76,7 +76,7 @@ Check if you already have JSON on your conda dev environment, by typing:
 
 - If you have request library is installed, then you should see the version.
 
-![Check Request Library](./images/conda_list_requests.jpeg) 
+![Check Request Library](./Images/conda_list_requests.jpeg) 
 
 - To install the Requests library, check that your development environment is active, and then run the following command:
 
