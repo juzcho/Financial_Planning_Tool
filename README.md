@@ -1,6 +1,6 @@
-# **Module 5 Challenge: Financial Planning Tool**
+# **Financial Planning Tool**
 
-## Financial Plannning Tool
+## Overview
 
 The Financial Planning Tool project is about understanding and evaluating the financial health of a credit union. It should help them decide how to plan their budgets and retirement plan.
 
