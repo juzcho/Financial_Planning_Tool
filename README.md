@@ -112,7 +112,8 @@ Check if you already have JSON on your conda dev environment, by typing:
 
 Contributed by: Justine Cho
 
-Email: juz317_cho@yahoo.com
+Email: chojustine0@gmail.com
+
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/justinecho)
 
